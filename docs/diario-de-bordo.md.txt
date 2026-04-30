@@ -1,0 +1,7 @@
+O que foi feito: Acordei, fui para a escola, vim para o senai e fiz(Criado o repositorio, criado os arquivos necessarios,
+cadastrado tarefas, e comitado arquivo no git);
+Dificuldades encontradas: no projeto(Qual a melhor descrição para colocar no commit de forma organizada.)
+na rotina: acordar animada
+Soluções aplicadas: no projeto(entender realmente o que queria que entendessem atraves do meu commit.)
+na rotina: pensar que amanha e feriado.
+O que será feito no próximo dia: descanço.
