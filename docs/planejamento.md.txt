@@ -1,0 +1,11 @@
+Objetivo do Projeto: Criar uma lista de tarefas.
+Funcionalidades planejadas: Organizar melhor nosso dia.
+Plazo de execução: 1 dia
+Tarefas diárias: 
+    5:00 - acordar
+    6:30 - ir para a escola
+    12:30 - ir para o senai
+    17:30 - ir embora para casa
+    19:00 - estudo conteúdos do dia
+    20:00 - momento leitura
+    21:00 - dormir
